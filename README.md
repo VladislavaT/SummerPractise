@@ -1,3 +1,3 @@
 # SummerPractise
 Group 525 repository: Tsokota, Pylypenko, Kravets, Titarenko
-LabWork 2
+Started on 20.06.2018+LabWork 2
